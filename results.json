@@ -1,0 +1,53 @@
+{
+  "benchmark": "Python HTTP client libraries",
+  "source": "GitHub search: http client language:python (sorted by stars), top five by returned star count",
+  "ranked_by": "stars per open issue",
+  "libraries": [
+    {
+      "rank": 1,
+      "repository": "psf/requests",
+      "stars": 54521,
+      "forks": 13234,
+      "open_issues": 244,
+      "stars_per_open_issue": 223.45,
+      "stars_per_fork": 4.12
+    },
+    {
+      "rank": 2,
+      "repository": "certbot/certbot",
+      "stars": 33279,
+      "forks": 3508,
+      "open_issues": 188,
+      "stars_per_open_issue": 177.02,
+      "stars_per_fork": 9.49
+    },
+    {
+      "rank": 3,
+      "repository": "encode/httpx",
+      "stars": 15643,
+      "forks": 4402,
+      "open_issues": 140,
+      "stars_per_open_issue": 111.74,
+      "stars_per_fork": 3.55
+    },
+    {
+      "rank": 4,
+      "repository": "httpie/cli",
+      "stars": 38659,
+      "forks": 4022,
+      "open_issues": 351,
+      "stars_per_open_issue": 110.14,
+      "stars_per_fork": 9.61
+    },
+    {
+      "rank": 5,
+      "repository": "aio-libs/aiohttp",
+      "stars": 16579,
+      "forks": 2463,
+      "open_issues": 237,
+      "stars_per_open_issue": 69.95,
+      "stars_per_fork": 6.73
+    }
+  ],
+  "total_stars": 158681
+}
