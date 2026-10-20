@@ -1,13 +1,13 @@
 {
   "benchmark": "Python HTTP client libraries",
-  "source": "GitHub search: http client language:python (sorted by stars), top five by returned star count",
-  "ranked_by": "stars per open issue",
+  "source": "GitHub search: HTTP client language:Python — five most-starred results by returned star count (captured 2026-10-20)",
+  "ranked_by": "stars per open issue, highest first",
   "libraries": [
     {
       "rank": 1,
       "repository": "psf/requests",
       "stars": 54521,
-      "forks": 13234,
+      "forks": 13232,
       "open_issues": 244,
       "stars_per_open_issue": 223.45,
       "stars_per_fork": 4.12
@@ -44,8 +44,8 @@
       "repository": "aio-libs/aiohttp",
       "stars": 16579,
       "forks": 2463,
-      "open_issues": 237,
-      "stars_per_open_issue": 69.95,
+      "open_issues": 236,
+      "stars_per_open_issue": 70.25,
       "stars_per_fork": 6.73
     }
   ],
